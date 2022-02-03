@@ -1,0 +1,24 @@
+/*
+File name: $FNAME
+Author: $AUTHOR
+Email: $EMAIL
+Date created: $DATE
+ */
+body{
+    font-family: Verdana, sans-serif;
+}
+p{
+    text-align: justify;
+}
+h1{
+    text-align: center;
+}
+h1, h2{
+    font-weight: 400;
+}
+
+ul li{
+    list-style-type: square;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
