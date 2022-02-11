@@ -27,7 +27,7 @@ Examples:
 First make a soft link to make the script included in the $PATH.
 ```
 sudo chmod a+x ./webInit.py
-sudo ln -s /usr/bin/webinit ./webInit.py
+sudo ln -s /<PathToTheFile>/webInit.py /usr/bin/webinit
 ```
 Use:
 ```
